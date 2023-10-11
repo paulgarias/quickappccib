@@ -13,3 +13,5 @@ sudo docker run hello-world
  
 sudo groupadd docker
 sudo usermod -aG docker $USER
+
+# Comment added here by Paul Arias
