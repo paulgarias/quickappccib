@@ -15,3 +15,5 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 
 # Comment added here by Paul Arias
+echo $PWD
+env
