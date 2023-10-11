@@ -1,2 +1,3 @@
-# quickappccib
-demonstration app
+# CCIB First Repository
+demonstration app 
+Author: Paul Arias
